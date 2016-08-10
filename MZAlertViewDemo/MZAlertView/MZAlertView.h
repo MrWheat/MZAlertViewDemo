@@ -38,7 +38,7 @@ typedef void (^ConfirmClick)();
                  confirmClick:(ConfirmClick)confirmClick;
 
 /**
- *  ActionSheet显示
+ *  AlertView显示
  */
 - (void)show;
 
